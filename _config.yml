@@ -1,0 +1,14 @@
+layout_spectrum: 0.3667238294146955
+typography_spectrum: 0.11932456702925265
+color:
+  brandStrength: 0.5077539801131934
+  lightness: 0.7917331955395639
+  saturation: 0.08185229171067476
+  rhythmicContrast: 0.9398773645516485
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: borja
